@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+
+        <!ELEMENT note (to,from,heading,body)>
+        <!ELEMENT to (#PCDATA)>
+        <!ATTLIST to value (1|2) #REQUIRED>
+        <!ELEMENT from (#PCDATA)>
+        <!ELEMENT heading (#PCDATA)>
+        <!ELEMENT body (#PCDATA)>
+

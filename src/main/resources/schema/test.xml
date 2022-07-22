@@ -1,0 +1,15 @@
+<beans
+        xmlns="http://www.poo0054.com/note"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:test="http://www.poo0054.com/test"
+        xsi:schemaLocation="http://www.poo0054.com/note                note.xsd
+        http://www.poo0054.com/test        test.xsd
+        ">
+
+
+    <test:dept body="test"/>
+
+
+
+
+</beans>

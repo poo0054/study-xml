@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE note  SYSTEM "D:\project\source\study-xml\src\main\resources\dtd\note.dtd">
+
+<note>
+    <to value="1">George</to>
+    <from>John</from>
+    <heading>Reminder</heading>
+    <body>Don't forget the meeting!</body>
+</note>
