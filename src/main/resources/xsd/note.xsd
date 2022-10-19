@@ -3,7 +3,6 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns="http://www.poo0054.com/note"
             targetNamespace="http://www.poo0054.com/note"
-
 >
 
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>

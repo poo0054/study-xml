@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+
+<xs:schema xmlns="http://www.poo0054.com/test"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xml:note="https://www.poo0054.com/note"
+           targetNamespace="http://www.poo0054.com/test"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified"
+>
+
+    <xs:import namespace="https://www.poo0054.com/note" schemaLocation="note.xsd"/>
+
+    <xs:element name="dept">
+        <xs:complexType>
+            <xs:attribute name="body" type="xs:string" use="required">
+            </xs:attribute>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
